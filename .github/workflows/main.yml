@@ -1,4 +1,7 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+# https://metrics.lecoq.io/
+# https://github.com/lowlighter/metrics
+
 name: GitHub metrics as SVG image
 on:
   schedule: [{cron: "0 * * * *"}]
