@@ -6,7 +6,9 @@
 
 ## My company: PURE LAMBDA
 
-[![PURE LAMBDA Logo](https://raw.githubusercontent.com/leobenkel/leobenkel/main/assets/pure-lambda-logo.png) purelambda.com](https://purelambda.com)
+[![PURE LAMBDA Logo](https://raw.githubusercontent.com/leobenkel/leobenkel/main/assets/pure-lambda-logo.png)](https://purelambda.com)
+
+[![Pure lambda link](https://img.shields.io/badge/-PURE%20LAMBDA-yellowgreen.svg?style=for-the-badge&logoColor=black&color=5595f0)](https://purelambda.com)
 
 ## Scala projects
 
