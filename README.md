@@ -4,16 +4,19 @@
 
 [![leobenkel-github-badge][]][leobenkel-github-link] [![leobenkel-linkedin-badge][]][leobenkel-linkedin-link] [![leobenkel-personal-badge][]][leobenkel-personal-link] [![leobenkel-patreon-badge][]][leobenkel-patreon-link] [![medium-badge][]][medium-link]
 
+## My company: PURE LAMBDA
+
+[![PURE LAMBDA Logo](https://raw.githubusercontent.com/leobenkel/leobenkel/main/assets/pure-lambda-logo.png) purelambda.com](https://purelambda.com)
+
 ## Scala projects
 
 [![tour-of-scala-badge][]][tour-of-scala-link] [![discord-badge][]][discord-link]
 
 ## Data
 
-![Leo's Github Stats](https://github-readme-stats.vercel.app/api?username=leobenkel&show_icons=true&theme=white) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leobenkel&langs_count=3&layout=compact) 
+![Leo's Github Stats](https://github-readme-stats.vercel.app/api?username=leobenkel&show_icons=true&theme=white) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leobenkel&langs_count=3&layout=compact)  ![Leo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leobenkel)
 
-<!-- ![Leo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leobenkel) -->
-
+![Leo's Github Stats 2](https://raw.githubusercontent.com/leobenkel/leobenkel/main/github-metrics.svg) 
 
 [medium-link]: https://medium.com/@leo.benkel
 [tour-of-scala-link]: https://tourofscala.com
