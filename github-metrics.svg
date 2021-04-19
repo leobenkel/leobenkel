@@ -1244,11 +1244,11 @@
                 <div class="row fill-width">
                     <section class="categories">
                         <div class="categorie column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="296.1 329"/>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="289.52 329"/>
                                 <text x="60" y="60" dominant-baseline="central">
-                                    90
+                                    88
                                 </text>
                             </svg>
                             <span class="title">
@@ -1268,11 +1268,11 @@
                             </span>
                         </div>
                         <div class="categorie column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="263.2 329"/>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="305.97 329"/>
                                 <text x="60" y="60" dominant-baseline="central">
-                                    80
+                                    93
                                 </text>
                             </svg>
                             <span class="title">
@@ -2317,7 +2317,7 @@
                     These metrics do not include all private contributions
                 </span>
                 <span>
-                    Last updated Mon, 19 Apr 2021 16:06:43 GMT with lowlighter/metrics@3.7.0
+                    Last updated Mon, 19 Apr 2021 17:19:23 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
